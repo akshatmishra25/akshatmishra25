@@ -15,6 +15,6 @@ I'm a passionate and adaptable Software Engineering student, with a strong backg
 - 📫 Reach me at: akshatmishra317@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshat-mishra-702694226/)
 - 🐦 Follow me on [Twitter](https://twitter.com/AkshatMx10)
-- 🌐 Explore my portfolio: [Website](https://my-portfolio-jy97-p3545tggf-akshatmishra25.vercel.app/)
+- 🌐 Explore my portfolio: [Website](https://akshat-mishra-25.vercel.app/)
 
 Feel free to explore my repositories and get in touch. Let's collaborate and create something amazing together! 🚀
